@@ -56,6 +56,9 @@
 				<div class="row">
 					<div class="col-xs-12">
 						<h1>Offene Stellen</h1>
+						<p><b>Wir sind nicht nur verantwortlich f&uuml;r das, was wir tun; sondern auch f&uuml;r das, was wir nicht tun.</b><br/>
+
+<sup>(Jean Moli&egrave;re)</sup></p>
 					</div>
 				</div>				
 				<div class="row">
